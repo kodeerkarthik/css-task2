@@ -1,0 +1,27 @@
+span{
+	padding: 30px;
+	font-weight: bolder;
+}
+.head{
+	background-image: linear-gradient(yellow,orange);
+	height:25px;
+	
+}
+i {
+	font-size:20px;
+	color:red;
+}
+.footer{
+	align-self: bottom;
+	float: bottom;
+	margin-top: 200px;
+}
+#aa
+{
+	padding-left: 900px;
+	font-weight: bolder;
+}
+
+#z{
+	padding-left: 200px;
+}
